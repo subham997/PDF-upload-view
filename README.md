@@ -1,1 +1,2 @@
 # Pdf-upload-view
+Firstly put the pdf_upload_view folder in xampp\htdocs path. Import the sql file and create a new database in phpmyadmin or mysql tools as pdf_upload . Then enter the folder name in browser to view the output. It's nice assignment and i have learnt about viewing the pdf after uploading previously i have only learnt about only upload of pdf.I have used iframe for pdd viewer. basically i have faced issue while thechanging background color of pdf viewer. I approximately taken 2-3 hours to complete the task
